@@ -82,7 +82,7 @@ customer-churn-prediction-ml/
 │ └── customer_churn_data.csv
 │
 ├── notebooks/
-│ └── churn_analysis_and_modeling.ipynb
+│ └── Churn_Analysis_Modelling.ipynb
 │
 ├── app.py
 ├── model.pkl

@@ -1,5 +1,3 @@
-# README.md content for Customer Churn Prediction GitHub repository
-
 # Customer Churn Prediction (Machine Learning)
 
 ## Overview

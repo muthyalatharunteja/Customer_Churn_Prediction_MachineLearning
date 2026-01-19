@@ -127,5 +127,4 @@ customer-churn-prediction-ml/
 
 ## Author
 Muthyala Tharun Teja
-
-GitHub | LinkedIn
+[LinkedIn](https://linkedin.com/in/muthyalatharunteja)
